@@ -49,5 +49,5 @@
 
 </div>
 
-![Snake animation](https://github.com/LeonardoManzini/LeonardoManzini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-contribution-grid-snake.svg)
 
