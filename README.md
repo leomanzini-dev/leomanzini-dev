@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Leonardo Manzini  
+# 👋 Olá, eu sou o Leonardo Manzini  
 
-📌 Analista de TI e estudante de **Sistemas de Informação**  
-🚀 Apaixonado por desenvolvimento, inteligência artificial e automação  
-🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais  
+📌 Analista de TI e estudante de **Sistemas de Informação**  
+🚀 Apaixonado por desenvolvimento, inteligência artificial e automação  
+🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
 
@@ -18,20 +18,20 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 
-</div>  
+</div>  
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=leomanzini-dev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomanzini-dev&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>  
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=leomanzini-dev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomanzini-dev&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</div>  
 
 ---
 
-## 📬 Contato  
+## 📬 Contato  
 
 <div align="center">
 
@@ -39,14 +39,12 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomanzini08@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516992837110)
 
-</div>  
+</div>  
 
 ---
 
 <div align="center">
 
-![Pac-Man snake animation](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-![Snake animation](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-contribution-grid-snake.svg)
