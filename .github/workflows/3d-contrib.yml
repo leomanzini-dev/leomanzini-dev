@@ -11,16 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # PASSO NOVO: Criando a pasta "dist" manualmente
+      - name: Create output directory
+        run: mkdir -p dist
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: leomanzini-dev # <-- CORREÇÃO: Removido o underline de "USER_NAME"
-          OUTPUT_PATH: dist
+          USERNAME: leomanzini-dev
+          OUTPUT_PATH: dist # Agora a ação vai encontrar esta pasta para salvar o arquivo
           FILE_NAME: github-3d-contrib.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist # E esta ação também vai encontrar a pasta para publicar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
