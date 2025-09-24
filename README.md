@@ -25,9 +25,17 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=leomanzini-dev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomanzini-dev&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>  
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomanzini-dev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomanzini-dev&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
