@@ -11,15 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # AÇÃO CORRIGIDA: Parâmetros movidos para o bloco "env"
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_NAME: leomanzini-dev
+          USERNAME: leomanzini-dev # <-- CORREÇÃO: Removido o underline de "USER_NAME"
           OUTPUT_PATH: dist
           FILE_NAME: github-3d-contrib.svg
 
-      # Esta parte que envia o arquivo para a branch "output" continua a mesma
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
