@@ -55,6 +55,6 @@
 
 <div align="center">
 
-![3D Contribution Graph](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-3d-contrib.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/leomanzini-dev/leomanzini-dev/output/github-3d-contrib.svg)
 
 </div>
