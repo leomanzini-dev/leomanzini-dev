@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Leonardo Manzini  
 
-📌 Analista de TI e estudante de **Sistemas de Informação**  
-🚀 Apaixonado por desenvolvimento, inteligência artificial e automação  
-🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais  
+* 📌 Analista de TI e estudante de **Sistemas de Informação**  
+* 🚀 Apaixonado por desenvolvimento, inteligência artificial e automação  
+* 🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-
+<br>
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -18,7 +18,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 
-</div>  
+</div>
+<br>
 
 ---
 
@@ -40,14 +41,15 @@
 ---
 
 ## 📬 Contato  
-
+<br>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-emanuel-manzini/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomanzini08@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516992837110)
 
-</div>  
+</div>
+<br>
 
 ---
 
