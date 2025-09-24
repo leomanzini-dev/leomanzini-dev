@@ -55,6 +55,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-contribution-grid-snake.svg)
+![3D Contribution Graph](https://github.com/leomanzini-dev/leomanzini-dev/blob/output/github-3d-contrib.svg)
 
 </div>
