@@ -1,15 +1,14 @@
-# 👋 Olá, eu sou o Leonardo Manzini  
+# 👋 Olá, eu sou o Leonardo Manzini
 
-* 📌 Analista de TI e estudante de **Sistemas de Informação**  
-* 🚀 Apaixonado por desenvolvimento, inteligência artificial e automação  
-* 🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais  
+* 📌 Analista de TI e estudante de **Sistemas de Informação**
+* 🚀 Apaixonado por desenvolvimento, inteligência artificial e automação
+* 🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Tecnologias & Ferramentas
 <br>
 <div align="center">
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -17,14 +16,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-
 </div>
 <br>
 
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
   <table>
     <tr>
@@ -40,21 +37,17 @@
 
 ---
 
-## 📬 Contato  
+## 📬 Contato
 <br>
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-emanuel-manzini/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardomanzini08@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516992837110)
-
 </div>
 <br>
 
 ---
 
 <div align="center">
-
 ![3D Contribution Graph](https://raw.githubusercontent.com/leomanzini-dev/leomanzini-dev/output/github-3d-contrib.svg)
-
 </div>
