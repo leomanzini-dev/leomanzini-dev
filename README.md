@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leonardo Manzini
 
 * 📌 Analista de TI e estudante de **Sistemas de Informação**
-* 🚀 Apaixonado por desenvolvimento, inteligência artificial e automação
+* 🚀 Apaixonado por desenvolvimento, inteligência artificial, automação e análise de dados
 * 🏐 Poliglota do esporte: jogo futevôlei, beach tennis, vôlei, futebol, tênis de mesa, basquete, tênis e muito mais
 
 ---
